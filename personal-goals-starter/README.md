@@ -13,7 +13,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 5. Use more C/C++
 6. More Data Analysis
 
-# September 09, 2015
+# September, 2015
 
 ### This Week's Goal: Be Awesome.
 
