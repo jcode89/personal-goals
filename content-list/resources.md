@@ -5,6 +5,8 @@
 
 ### Tools
 - [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
+- [ ] [HTML/CSS Tutorial](https://www.udemy.com/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?pmtag=LEAP0010&siteID=lzAk459zR_w-.6IR5EM1hXOhMQVDPwWUQw&LSNPUBID=lzAk459zR/w)
+- [ ] [Swift Tutorial](https://www.udemy.com/learn-the-swift-programming-language-basics-in-one-day/?pmtag=LEAP0010&siteID=lzAk459zR_w-0AWrzAGjnpaLe.P8mVyjmA&LSNPUBID=lzAk459zR/w)
 
 ### Flask/Web Development
 - [ ] [Flask Post](http://www.fullstackpython.com/flask.html)
