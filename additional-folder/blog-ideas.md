@@ -1,17 +1,16 @@
-In here you can list steps to accomplish your goals.
+# My Step-By-Step Goals
 
-Here's an example:
+### Personal Blog
+1. Create ability to write and display posts.
+2. Create reusable template for posts page.
+3. Create a posts archive page, and have that display first.
+4. Write and about me page to help readers connect with me
+5. Give the reader the ability to subscribe to the blog.
+6. Allow the reader to connect with me via Twitter or Github.
 
-If my goal was to create a dog-themed SVG animation a day, I could list out different animation ideas:
 
-1. Dog jumping over hoop into pool
-2. Dog floating on the moon
-3. Dog in glasses, reading book
-etc..
-
-If my goal was to film more videocasts, this could be used for topics
-
-Nov. 2: Mario Kart over the ages
-Nov. 9: Why Princess Peach lied
-Nov. 16: ?
-Nov. 25: Interview with Luigi
+### DataDotPy
+* Create a simple API framework using Flask.
+* Incorporate Redis for easy real time analysis of Tweets.
+* Save results of analysis to a RethinkDB Database.
+* Allow GET and POST requests to request a Stream open up and analyze the incoming tweets and send the results.
