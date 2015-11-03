@@ -13,27 +13,24 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 5. Use more C/C++
 6. More Data Analysis
 
-# October, 2015
+# November, 2015
 
-### This Week's Goal: Be Awesome.
+### This Month's Goal: Machine Learning.
 
-## Things I'll Do This Week:
--  [x] Work on [BlogPosts](https://github.com/jcode89/personal-goals/blob/master/content-list/blog-posts.md)(2/2)
-- [ ] Read up on Docker
+## Things I'll Do This Month:
+- [ ] Build a Docker Image for my web app
 - [ ] Create My Personal Blog
 - [x] Continue learning about narwhals
-- [x] Review issues for the [project](https://github.com/code-newbies/python-thursday-blog)
+- [ ] Read up/incorporate machine learning into my web app [DataDotPy](https://github.com/jcode89/DataDotPy)
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 
-### Things I'll Do This Month: September-October 2015
+## Things I Will Attempt This Week:
 - [ ] Read _Your Code As Crime Scene_
-- [ ] Integrate Docker with [DataDotPy](https://github.com/jcode89/DataDotPy)
 - [ ] Read _Test Driven Development_
-- [x] Integrate more data analysis with [DataDotPy](https://github.com/jcode89/DataDotPy)
 
-
-### Backlog: Saturday Discussion Prep :)
+### Backlog: Mainly Reading
 - [ ] Work on RethinkDB
+- [ ] Read the packt pub nginx books.
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create an automated email program
