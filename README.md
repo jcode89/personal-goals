@@ -13,23 +13,24 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 5. Use more C/C++
 6. More Data Analysis
 
-# November, 2015
+# January, 2016
 
-### This Month's Goal: Machine Learning.
+### This Month's Goal: Find My Career.
 
 ## Things I'll Do This Month:
-- [ ] Build a Docker Image for my web app
-- [ ] Create My Personal Blog
+- [ ] Read _Effective Python_
+- [ ] Begin reading _Living Clojure_
 - [x] Continue learning about narwhals
 - [ ] Read up/incorporate machine learning into my web app [DataDotPy](https://github.com/jcode89/DataDotPy)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [ ] Begin reading _Hacking: The Art of Exploitation_
 
 ## Things I Will Attempt This Week:
-- [ ] Read _Your Code As Crime Scene_
-- [ ] Read _Test Driven Development_
+- [ ] Work through examples from the books
+- [ ] Refactor my Flask App
+- [ ] Find my **CAREER**
 
 ### Backlog: Mainly Reading
-- [ ] Work on RethinkDB
+- [ ] Think about using SQL
 - [ ] Read the packt pub nginx books.
 
 ### Backlog: Code Things I Want to Do/Play With
